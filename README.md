@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/responsive-nft-preview-card-component-OtqVS4FSQ)
+- [Live Site](https://bitterrsweetj.github.io/nft-preview-card-component/)
 
 
